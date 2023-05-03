@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:title="@string/nav_home"
+            android:icon="@android:drawable/ic_menu_mylocation" />
+        <item
+            android:id="@+id/maps"
+            android:title="@string/nav_maps"
+            android:icon="@android:drawable/ic_menu_mapmode" />
+
+        />
+        <item
+            android:id="@+id/confArea"
+            android:title="@string/configurar_area_restringida"
+            android:icon="@android:drawable/ic_menu_myplaces" />
+        />
+        <item
+            android:id="@+id/confTel"
+            android:title="@string/configurar_tel_fono_de_emergencia"
+            android:icon="@android:drawable/ic_menu_call" />
+        />
+    </group>
+</menu>

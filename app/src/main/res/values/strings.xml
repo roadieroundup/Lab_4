@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GPS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_maps">Mapa en tiempo real</string>
+    <string name="drawer_open">Abrir Menu</string>
+    <string name="drawer_close">Cerrar menu</string>
+    <string name="configurar_area_restringida">Configurar area restringida</string>
+    <string name="configurar_tel_fono_de_emergencia">Configurar teléfono de emergencia</string>
+    <string name="a_ade_puntos_para_el_poligono">Añade puntos para el poligono</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="guardar">Guardar</string>
+</resources>
